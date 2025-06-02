@@ -1,4 +1,4 @@
-#Web Navigator
+# Web Navigator
 
 Web Navigator is a project that simulates basic web browser navigation operations, including:
 
